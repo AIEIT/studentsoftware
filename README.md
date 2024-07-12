@@ -1,2 +1,3 @@
-# studentsoftware
-Software available for AIE Students
+# Student Software
+
+Software available for AIE Students.
